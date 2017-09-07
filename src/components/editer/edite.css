@@ -1,0 +1,41 @@
+.title {
+    width: 100%;
+    box-sizing: border-box;
+    border: none;
+    padding: 10px;
+    background: rgba(255, 241, 37, 0.29);
+    border-bottom: 1px dashed darkgray;
+}
+
+.title:focus, .text:focus {
+    outline: none;
+}
+
+.text {
+    width: 100%;
+    box-sizing: border-box;
+    border: none;
+    background: rgba(255, 241, 37, 0.29);
+    margin-bottom: 60px;
+}
+
+.bottomWrapper {
+    position: fixed;
+    width: 100%;
+    box-sizing: border-box;
+    bottom: 0;
+}
+
+.reviews_title {
+    box-sizing: border-box;
+    padding-bottom: 10px;
+    border-bottom: 1px dashed darkgray;
+}
+
+.reviews code {
+    display: block;
+    box-sizing: border-box;
+    width: 100%;
+    background: rgba(255, 241, 37, 0.29);
+    padding: 20px;
+}

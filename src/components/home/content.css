@@ -1,0 +1,31 @@
+.card {
+    margin: 10px;
+}
+
+.contentWrapper {
+    margin-top: 10px;
+}
+
+.content {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    margin-bottom: 10px;
+}
+
+.footer {
+    color: darkgray;
+    font-size: 12px;
+    display: flex;
+    justify-items: center;
+}
+
+.time {
+    margin-top: 2px;
+}
+
+.like {
+    padding: 0 10px;
+}

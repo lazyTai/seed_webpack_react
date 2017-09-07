@@ -1,0 +1,19 @@
+.wrapper {
+    margin: 10px;
+}
+
+._wrapper {
+    padding: 20px;
+}
+
+.text {
+    width: 100%;
+}
+
+.btns {
+    padding: 10px;
+}
+
+.cancelBtn {
+    margin-right: 20px;
+}
